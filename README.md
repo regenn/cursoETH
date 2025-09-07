@@ -1,4 +1,4 @@
-Introduccion para el curso
+#Introduccion para el curso
 ---
 # sobre mi
 Mi nombre es Regina Entrocassi, soy estudiante de ingenieria informatica de la Facultad de Ingenieria de la Universidad Nacional de Mar del plata. 
